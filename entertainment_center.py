@@ -27,3 +27,4 @@ your_name = media.Movie("Your Name",
 movies = [the_martian, sully, your_name]
 # using fresh_tomatoes to create the web page
 fresh_tomatoes.open_movies_page(movies)
+
