@@ -10,18 +10,18 @@ import fresh_tomatoes
 
 # The Martian -- information
 the_martian = media.Movie("The Martian",
-			"https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg", 
-			"https://youtu.be/ej3ioOneTy8")
+                        "https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg",  # noqa
+                        "https://youtu.be/ej3ioOneTy8")
 
 # Sully -- information
 sully = media.Movie("Sully",
-			"https://upload.wikimedia.org/wikipedia/en/8/82/Sully_xxlg.jpeg",
-			"https://youtu.be/9uhuyyY5WuU")
+                    "https://upload.wikimedia.org/wikipedia/en/8/82/Sully_xxlg.jpeg",  # noqa
+                    "https://youtu.be/9uhuyyY5WuU")
 
 # Your Name -- information
 your_name = media.Movie("Your Name",
-			"https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
-			"https://youtu.be/s0wTdCQoc2k")
+                        "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",  # noqa
+                        "https://youtu.be/s0wTdCQoc2k")
 
 # Catogory of the movies
 movies = [the_martian, sully, your_name]
