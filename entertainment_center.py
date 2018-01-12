@@ -6,7 +6,7 @@
 import media
 import fresh_tomatoes
 
-# call the function Movie in media class
+# call the class Movie in media.py
 
 # The Martian -- information
 the_martian = media.Movie("The Martian",
